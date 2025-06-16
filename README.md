@@ -64,7 +64,7 @@ It integrates multiple techniques:
 #### ➤ Multimedia Query
 
 **Input**: What does Leonardo DiCaprio look like?
-**Output**: \[Displays 3 images]
+**Output**: \[Displays image]
 
 ---
 
