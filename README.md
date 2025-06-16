@@ -7,7 +7,7 @@ This repository contains the implementation of a conversational agent developed 
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 The agent is capable of handling:
 
@@ -25,7 +25,7 @@ It integrates multiple techniques:
 
 ---
 
-## 🛠 Features
+## Features
 
 ### 1. Natural Language Understanding
 
@@ -49,7 +49,7 @@ It integrates multiple techniques:
 
 ---
 
-## 📥 Example Queries
+## Example Queries
 
 #### ➤ Closed Question
 
@@ -68,7 +68,7 @@ It integrates multiple techniques:
 
 ---
 
-## ⚙️ Architecture & Components
+## Architecture & Components
 
 * `GraphAgent`: Handles SPARQL queries and IMDb ID lookups
 * `NLPProcessor`: Classifies and extracts intent + entities
@@ -82,7 +82,7 @@ It integrates multiple techniques:
 
 ---
 
-## 📌 Limitations
+## Limitations
 
 * Limited to common movie attributes (e.g., director, genre, etc.)
 * Small recommendation dataset (subset of MovieLens)
@@ -90,7 +90,7 @@ It integrates multiple techniques:
 
 ---
 
-## 📚 Libraries Used
+## Libraries Used
 
 * `rdflib` (graph queries)
 * `transformers` (zero-shot classification)
@@ -100,6 +100,6 @@ It integrates multiple techniques:
 
 ---
 
-## 📁 Disclaimer
+## Disclaimer
 
 This is a course project. The repository does not include all code due to internal or licensing constraints. For academic inquiries, feel free to reach out.
